@@ -20,6 +20,13 @@
             ."<li>GTA</li>"
             ."</ul>";
     echo 'esta es toda'.'-'.'lista de juegos</p>';
+    echo "<h3>listado de video juegos</h3>";
+    echo "<ul>"
+            ."<li>GTA</li>"
+            ."<li>GTA</li>"
+            ."<li>GTA</li>"
+            ."</ul>";
+    echo 'esta es toda'.'-'.'lista de juegos</p>';
     ?>
 </html>
 
